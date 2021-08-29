@@ -9,7 +9,7 @@ The project gathers Cleaning, QA, and Visualization
 
 ### Installing Packages within Jupyter Notebook
 
-    !import sys
+    import sys
 
     !{sys.executable} -m pip install module_name
 
