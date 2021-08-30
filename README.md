@@ -1,5 +1,5 @@
 ## US-Car-Pollution-Data-Analysis
-(still building...) Analyzing the US car market situation in regards consumption and pollution.
+Analyzing the US car market situation in regards consumption and pollution.
 
 The project gathers Cleaning, QA, and Visualization
 
